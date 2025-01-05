@@ -194,6 +194,8 @@ This project is licensed under the MIT License. See the LICENSE file for details
 For any questions or feedback, feel free to contact:
 - **Name**: Prashant Nawale
 - **Linkedin**: www.linkedin.com/in/prashant-nawale-a47505261
+![Screenshot (129)](https://github.com/user-attachments/assets/7baed7ac-23fe-4725-97b8-f84dd608407e)
+![Screenshot 2025-01-05 204650](https://github.com/user-attachments/assets/ac97524f-f05e-46de-a626-af8d093a6789)
 
 
 
